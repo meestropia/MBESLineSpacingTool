@@ -1,7 +1,7 @@
 ## GUI Program to compute for line spacing with overlap. Ping rate and survey speed.
 ## LT Marlon E Estropia - 26/01/2024 (GUI Version)
 ## Reference: Lurton, X. (2010). An introduction to underwater acoustics: Principles and applications (Second edition). Springer.
-##            Lecture presentation: Johnson O. Oguntuase. (2021). HYD605 Lurton Chapter 8 Reading 6.
+##            Lecture presentation: Dr. Johnson O. Oguntuase. (2021). HYD605 Lurton Chapter 8 Reading 6.
 
 import math
 import tkinter as tk
